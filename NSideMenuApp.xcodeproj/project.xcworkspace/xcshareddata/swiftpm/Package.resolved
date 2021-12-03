@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NSideMenu",
+        "repositoryURL": "https://github.com/itisnajim/NSideMenu.git",
+        "state": {
+          "branch": null,
+          "revision": "a90f35d92d87ab0cc3466625cf235525aa832c51",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
